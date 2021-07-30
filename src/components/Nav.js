@@ -15,7 +15,7 @@ const Nav = () => {
     window.scrollTo(0, 1800)
   } 
   function Contact() {
-    window.scrollTo(0, 3000)
+    window.scrollTo(0, 2700)
   } 
   return (
     <nav className="navbar">
