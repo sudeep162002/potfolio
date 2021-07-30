@@ -30,16 +30,16 @@ const Banner = () => {
 
                 <ul className="header__ul">
                   <li>
-                    <FaFacebookF className="headerIcon" />
+                    <FaFacebookF className="headerIcon" onClick={() => window.open( 'https://www.facebook.com/sudeep.choudhary.5036')} />
                   </li>
                   <li>
-                    <FaTwitter className="headerIcon" />
+                    <FaTwitter className="headerIcon" onClick={() => window.open( 'https://www.linkedin.com/in/sudeep-choudhary-103017203/')} />
                   </li>
                   <li>
-                    <FaLinkedin className="headerIcon"  />
+                    <FaLinkedin className="headerIcon"  onClick={() => window.open( 'https://www.linkedin.com/in/sudeep-choudhary-103017203/')} />
                   </li>
                   <li>
-                    <FaInstagram className="headerIcon" />
+                    <FaInstagram className="headerIcon" onClick={() => window.open( 'https://www.instagram.com/sudeep.jss/')} />
                   </li>
                 </ul>
                 </Slide>
