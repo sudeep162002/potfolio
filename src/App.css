@@ -221,6 +221,10 @@ body {
   font-size: 14px;
   color: #dfdfdf;
 }
+.services__link {
+  font-size: 14px;
+  color: #dfdfdf;
+}
 .about {
   width: 100%;
   background: #23263a;
@@ -500,4 +504,11 @@ textarea{
 	.left{
 		height: 200px;
 	}
+}
+
+.project_button{
+  background-color: blue;
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
 }

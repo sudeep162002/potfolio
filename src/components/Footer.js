@@ -18,10 +18,7 @@ const Footer = () => {
                 <img src="/images/logo.png" alt="" />
               </div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor inci- didunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exe- rcitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat.
+                Thanks for visiting my website if you like this website. Please contact me or mail me for any advice.thankyou once again. viel Glück
               </p>
               <ul className="contactCircles">
                 <li>
