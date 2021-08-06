@@ -9,13 +9,13 @@ const About = () => {
   const [header] = React.useState({
     subHeader: "About Me",
     text:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.",
+      "I am a hard working person with 1 year experience in web dev. I know multiple programing language .",
   });
   const [state] = React.useState([
     { id: 1, title: "Name:", text: "Sudeep Choudhary" },
-    { id: 2, title: "Email:", text: "example@domain.com" },
-    { id: 3, title: "Phone:", text: "+1 023 454 345" },
-    { id: 4, title: "Linkedin", text: "sudeep_123" },
+    { id: 2, title: "Email:", text: "sudeep162002@gmail.com" },
+    { id: 3, title: "Phone:", text: "+8602161277" },
+    { id: 4, title: "Linkedin", text: "https://www.linkedin.com/in/sudeep-choudhary-103017203/" },
   ]);
   return (
     <div className="about" >

@@ -14,57 +14,64 @@ const Projects = () => {
     mainHeader: "PROJECTS",
     subHeading: "My Projects",
     text:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting\
-    industry. Lorem Ipsum standard dummy text.",
+      "These are my project which i made over time it . I use multiple technologys like React ,Node.js , express.js",
   });
   const [state] = React.useState([
     {
       id: 1,
       icon: <FaGithub className="commonIcons" />,
-      heading: "Web Development",
+      heading: "POTFOLLIO-WEBSITE",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
       industry. simply dummy",
+      link:"https://www.facebook.com/sudeep.choudhary.5036",
+
+      
     },
     {
       id: 2,
-      icon: <FaCamera className="commonIcons" />,
-      heading: "Photography",
+      icon: <FaGithub className="commonIcons" />,
+      heading: "NETFLIX-CLONE",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
         industry. simply dummy",
+        
     },
     {
       id: 3,
-      icon: <FaCircleNotch className="commonIcons" />,
-      heading: "Web Desing",
+      icon: <FaGithub className="commonIcons" />,
+      heading: "ZOOM-CLONE",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
         industry. simply dummy",
+        
     },
     {
       id: 4,
-      icon: <FaApple className="commonIcons" />,
-      heading: "App Devlopment",
+      icon: <FaGithub className="commonIcons" />,
+      heading: "TSHIRT-SELLER-WEB",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
         industry. simply dummy",
+        
     },
     {
       id: 5,
-      icon: <FaFileVideo className="commonIcons" />,
-      heading: "Video Editing",
+      icon: <FaGithub className="commonIcons" />,
+      heading: "TO-DO-LIST",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
         industry. simply dummy",
+        
     },
     {
       id: 6,
-      icon: <FaSearchDollar className="commonIcons" />,
-      heading: "SEO Expert",
+      icon: <FaGithub className="commonIcons" />,
+      heading: "LANDING-PAGE",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
         industry. simply dummy",
+        
     },
   ]);
   return (
@@ -88,6 +95,7 @@ const Projects = () => {
                   {info.icon}
                   <div className="services__box-header">{info.heading}</div>
                   <div className="services__box-p">{info.text}</div>
+                  <div className="project_button" onClick={() => window.open( 'https://github.com/sudeep162002')}>visit</div>
                   </Flip>
                 </div>
               </div>

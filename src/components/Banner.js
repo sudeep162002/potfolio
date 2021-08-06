@@ -12,10 +12,10 @@ import {
 } from "react-icons/fa";
 const Banner = () => {
   const [state] = React.useState({
-    title: "I am Sudeep Choudhary",
+    title: "HI FELLAS !!",
     text:
-      "i,m Sudeep, professional web developer with long time \
-    experience in this field​",
+      "Im Sudeep, MERN  developer and competative programer \
+    ​currently persuing B.tech degree in computer science. Welcome to my potfollio ",
     image: "/images/man-01.png",
   });
   return (
