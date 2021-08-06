@@ -14,7 +14,7 @@ const About = () => {
   const [state] = React.useState([
     { id: 1, title: "Name:", text: "Sudeep Choudhary" },
     { id: 2, title: "Email:", text: "sudeep162002@gmail.com" },
-    { id: 3, title: "Phone:", text: "+8602161277" },
+    { id: 3, title: "Phone:", text: "+918602161277" },
     { id: 4, title: "Linkedin", text: "https://www.linkedin.com/in/sudeep-choudhary-103017203/" },
   ]);
   return (
