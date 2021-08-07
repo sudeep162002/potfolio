@@ -14,8 +14,7 @@ const Banner = () => {
   const [state] = React.useState({
     title: "HI FELLAS !!",
     text:
-      "Im Sudeep, MERN  developer and competative programer \
-    ​currently persuing B.tech degree in computer science. Welcome to my potfollio ",
+      "I'm Sudeep, an MERN developer and competitive programer ​currently pursuing a B.tech degree in computer science. Welcome to my portfolio",
     image: "/images/man-01.png",
   });
   return (

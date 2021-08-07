@@ -9,7 +9,7 @@ const About = () => {
   const [header] = React.useState({
     subHeader: "About Me",
     text:
-      "I am a hard working person with 1 year experience in web dev. I know multiple programing language .",
+      "I am a hard-working person with 1-year of experience in web dev. I know multiple programing languages.",
   });
   const [state] = React.useState([
     { id: 1, title: "Name:", text: "Sudeep Choudhary" },
