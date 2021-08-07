@@ -14,7 +14,7 @@ const Projects = () => {
     mainHeader: "PROJECTS",
     subHeading: "My Projects",
     text:
-      "These are my project which i made over time it . I use multiple technologys like React ,Node.js , express.js",
+      "These are my project which I made over time it. I use multiple technologies like React , Node.js , express.js",
   });
   const [state] = React.useState([
     {
@@ -22,8 +22,7 @@ const Projects = () => {
       icon: <FaGithub className="commonIcons" />,
       heading: "POTFOLLIO-WEBSITE",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-      industry. simply dummy",
+        "It's this website. It has react frontend and node js backend.",
       link:"https://www.facebook.com/sudeep.choudhary.5036",
 
       
@@ -33,8 +32,7 @@ const Projects = () => {
       icon: <FaGithub className="commonIcons" />,
       heading: "NETFLIX-CLONE",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "This is a clone website of Netflix. it has backend of firebase and frontend of react and hosted on firebase",
         
     },
     {
@@ -42,8 +40,7 @@ const Projects = () => {
       icon: <FaGithub className="commonIcons" />,
       heading: "ZOOM-CLONE",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "IT is a backend project with nodejs and express engine . On this website I created a video calling app",
         
     },
     {
@@ -51,8 +48,7 @@ const Projects = () => {
       icon: <FaGithub className="commonIcons" />,
       heading: "TSHIRT-SELLER-WEB",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "its an javascript website with HTML and CSS frontend",
         
     },
     {
@@ -60,8 +56,7 @@ const Projects = () => {
       icon: <FaGithub className="commonIcons" />,
       heading: "TO-DO-LIST",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "its an javascript website with HTML and CSS frontend",
         
     },
     {
@@ -69,8 +64,7 @@ const Projects = () => {
       icon: <FaGithub className="commonIcons" />,
       heading: "LANDING-PAGE",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "its an javascript website with HTML and CSS frontend",
         
     },
   ]);
