@@ -4,30 +4,34 @@ import Roll from 'react-reveal/Roll';
 import Flash from 'react-reveal/Flash';
 
 
+
+
+
+
 const ContactForm = () => {
   return (
     <div className="ContactForm">
       <div className="contact-box">
 			
-			<div className="right">
-			<Flash>
+			<div className="right" >
+				<Flash>
 				<h2>Contact Us</h2>
 				</Flash>
 				<Slide left>
-				<input type="text" className="field" placeholder="Your Name"></input>
+				<input type="text" className="field" placeholder="Your Name" name="Your Name"></input>
 				</Slide>
 				<Slide right>
-				<input type="text" className="field" placeholder="Your Email"></input>
+				<input type="text" className="field" placeholder="Your Email" name="Your Email" ></input>
 				</Slide>
 				<Slide left>
-				<input type="text" className="field" placeholder="Phone"></input>
+				<input type="text" className="field" placeholder="Phone" name="Phone"></input>
 				</Slide>
 				<Slide right>
-				<textarea placeholder="Message" className="field"></textarea>
+				<textarea placeholder="Message" className="field" name="Message"></textarea>
 				</Slide>
 				<Slide bottom>
 				<Roll bottom>
-				<button className="btn">Send</button>
+				<button className="btn" type="submit" value="Send" >Send</button>
 				</Roll>
 				</Slide>
 			</div>
