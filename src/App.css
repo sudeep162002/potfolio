@@ -407,6 +407,10 @@ body {
   .h-650 {
     height: auto;
   }
+  .about__img img {
+    width: 331px;
+    height: 589px;
+  }
 }
 
 
