@@ -31,7 +31,7 @@ const Skill = () => {
     </div>
     <div className="bar">
       <div className="info">
-        <span>Python</span>
+        <span>Node.js</span>
       </div>
       <div className="progress-line python">
         <span></span>
