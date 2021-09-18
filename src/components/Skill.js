@@ -39,7 +39,7 @@ const Skill = () => {
     </div>
     <div className="bar">
       <div className="info">
-        <span>MySQL</span>
+        <span>MongoDb</span>
       </div>
       <div className="progress-line mysql">
         <span></span>
