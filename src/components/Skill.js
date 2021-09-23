@@ -23,7 +23,7 @@ const Skill = () => {
     </div>
     <div className="bar">
       <div className="info">
-        <span>jQuery</span>
+        <span>React</span>
       </div>
       <div className="progress-line jquery">
         <span></span>
@@ -39,7 +39,7 @@ const Skill = () => {
     </div>
     <div className="bar">
       <div className="info">
-        <span>MongoDb</span>
+        <span>Burpsuit</span>
       </div>
       <div className="progress-line mysql">
         <span></span>
