@@ -45,15 +45,12 @@ const About = () => {
               </Jello>
               <div className="about__info-p1">
               <Slide right>
-                In id nulla magna. Nullam posuere fermentum mattis. Nunc id dui
-                at sapien faucibus fermentum ut vel diam. Nullam tempus, nunc id
-                efficitur sagittis, urna est ultricies eros, ac porta sem turpis
+              A Web developer with a keen interest in creating Full Stack Web applications. Good grasp over technologies like HTML, CSS, ReactJS, Bootstrap, ExpressJS, MongoDB and NodeJS. A computer science enthusiast having programming experience in languages like C++, JavaScript. Strong grab on communication Skills.
                 </Slide>
               </div>
               <div className="about__info-p2">
               <Slide right>
-                nunc id efficitur sagittis, urna est ultricies eros, ac porta
-                sem turpis porta sem turpis quis leo. Nulla in feugiat elit
+              Apart from that, I am also a bug bounty hunter at HackerOne and bug crowd, experienced in ethical domain testing.
                 </Slide>
               </div>
               <div className="info__contacts">
