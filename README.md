@@ -1,1 +1,2 @@
-https://user-images.githubusercontent.com/80563363/142613687-0afd9114-4099-4b24-aea2-614c724c490c.mp4
+![photo_2021-11-19_16-42-10](https://user-images.githubusercontent.com/80563363/142614227-9016dcdd-d8f8-4b1b-acb7-6892d769e39f.jpg)
+
